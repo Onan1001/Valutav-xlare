@@ -10,6 +10,7 @@ namespace Valutaväxlare
     {
         static void Main(string[] args)
         {
+            string hej = "nikke";
             string valuta1 = null;
             string valuta2 = null;
             double tal = 0;
